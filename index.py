@@ -21,8 +21,8 @@ score=0
 #background
 background=pygame.image.load("background.png")
 
-mixer.music.load("background_music.wav") #we used music for big file and sound for small file
-mixer.music.play(-1)
+#mixer.music.load("background_music.wav") #we used music for big file and sound for small file
+#mixer.music.play(-1)
 
 
 
